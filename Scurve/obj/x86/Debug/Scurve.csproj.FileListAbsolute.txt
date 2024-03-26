@@ -1,0 +1,8 @@
+D:\C#\Project 02\Scurve\Scurve\obj\x86\Debug\Scurve.Form1.resources
+D:\C#\Project 02\Scurve\Scurve\obj\x86\Debug\Scurve.Properties.Resources.resources
+D:\C#\Project 02\Scurve\Scurve\bin\Debug\Scurve.exe
+D:\C#\Project 02\Scurve\Scurve\bin\Debug\Scurve.pdb
+D:\C#\Project 02\Scurve\Scurve\obj\x86\Debug\Scurve.exe
+D:\C#\Project 02\Scurve\Scurve\obj\x86\Debug\Scurve.pdb
+D:\C#\Project 02\Scurve\Scurve\obj\x86\Debug\Scurve.csproj.GenerateResource.Cache
+D:\C#\Project 02\Scurve\Scurve\obj\x86\Debug\Scurve.csprojResolveAssemblyReference.cache
